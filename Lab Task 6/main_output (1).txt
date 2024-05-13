@@ -1,0 +1,7 @@
+integerVar5
+Address of integerVar:0x7fff72d21c6c
+pPointer:0x7fff72d21c6c
+Address of pPointer0x7fff72d21c70
+
+
+** Process exited - Return Code: 0 **
